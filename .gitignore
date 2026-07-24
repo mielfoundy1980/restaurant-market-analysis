@@ -1,0 +1,21 @@
+# Fichiers de données (ne jamais versionner les données brutes)
+*.csv
+*.xlsx
+*.xls
+data/*.csv
+
+# Bases de données locales
+*.sqlite
+*.db
+
+# Fichiers d'environnement (Mots de passe, URIs de connexion)
+.env
+*.env
+
+# Fichiers OS
+.DS_Store
+Thumbs.db
+
+# Exceptions (On veut garder le dictionnaire et l'export du dashboard)
+!data/data_dictionary.md
+!dashboards/superset_export.json
