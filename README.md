@@ -3,6 +3,8 @@
 ## 🎯 Objectif du projet
 Ce projet analyse un ensemble de données sur la restauration pour identifier des opportunités de marché stratégiques (Gap Analysis). Il s'appuie sur la construction d'un pipeline de données complet, structuré selon une **Architecture Medallion** (Bronze, Silver, Gold), transformant des données brutes en indicateurs décisionnels prêts à être visualisés.
 
+> **📂 Source des données :** Le jeu de données initial utilisé pour cette analyse est fourni par [Maven Analytics](https://mavenanalytics.io/data-playground/restaurant-ratings).
+
 ## 🛠️ Stack Technique
 *   **Langage :** SQL (MariaDB / MySQL)
 *   **Architecture :** Medallion (Bronze / Silver / Gold)
