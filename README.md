@@ -8,7 +8,7 @@ Ce projet analyse un ensemble de données sur la restauration pour identifier de
 ## 🛠️ Stack Technique
 *   **Langage :** SQL (MariaDB / MySQL)
 *   **Architecture :** Medallion (Bronze / Silver / Gold)
-*   **Business Intelligence :** Apache Superset (en cours de création)
+*   **Business Intelligence :** Tableau Public (en cours de création)
 
 ## 🏗️ Architecture des Données
 
