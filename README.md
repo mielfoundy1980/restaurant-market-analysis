@@ -26,7 +26,7 @@ Ce projet analyse un ensemble de données sur la restauration pour identifier de
 
 ### 1. Biais de Sélection & Profilage (Le Persona)
 L'analyse de la clientèle a révélé un biais de sélection massif dans l'échantillon. La base de données ne représente pas la population générale, mais un **Persona hautement spécifique** :
-*   **82%** d'étudiants (21-28 ans).
+*   **82%** d'étudiants (moins de 28 ans).
 *   Majoritairement célibataires, non-fumeurs et dépendants des transports en commun.
 *   Ultra-localisés à San Luis Potosi.
 
