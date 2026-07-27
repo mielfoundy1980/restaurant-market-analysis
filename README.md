@@ -47,3 +47,6 @@ The ideal data-driven restaurant project:
 4. Apply business transformations via `sql/02_silver/`.
 5. Generate the analytical views using `sql/03_gold/`.
 6. Connect Tableau Desktop to the silver layers for dashboard creation.
+
+## 🎥 Dashboard Demo
+[Watch the full video demonstration here](https://youtu.be/DkzQTNXnI9I)
